@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "ThuVien.test",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
       "name": "QLCB",
       "request": "launch",
       "mainClass": "DonViSanXuat.QLCB",

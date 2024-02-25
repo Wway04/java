@@ -4,6 +4,12 @@ import java.util.Scanner;
 
 public class TaiLieu {
     protected String maTaiLieu;
+    public int loai;
+
+    public String getMaTaiLieu() {
+        return maTaiLieu;
+    }
+
     protected String tenNXB;
     protected int soBanPH;
     static Scanner scanner = new Scanner(System.in);
