@@ -1,0 +1,155 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "QLCB",
+      "request": "launch",
+      "mainClass": "DonViSanXuat.QLCB",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
+      "name": "bai_20",
+      "request": "launch",
+      "mainClass": "bai_tap.bai_20",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
+      "name": "bai_19",
+      "request": "launch",
+      "mainClass": "bai_tap.bai_19",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
+      "name": "bai_18",
+      "request": "launch",
+      "mainClass": "bai_tap.bai_18",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
+      "name": "bai_17",
+      "request": "launch",
+      "mainClass": "bai_tap.bai_17",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
+      "name": "bai_16",
+      "request": "launch",
+      "mainClass": "bai_tap.bai_16",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
+      "name": "bai_15",
+      "request": "launch",
+      "mainClass": "bai_tap.bai_15",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
+      "name": "bai_14",
+      "request": "launch",
+      "mainClass": "bai_tap.bai_14",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
+      "name": "bai_13",
+      "request": "launch",
+      "mainClass": "bai_tap.bai_13",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
+      "name": "bai_12",
+      "request": "launch",
+      "mainClass": "bai_tap.bai_12",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
+      "name": "bai_11",
+      "request": "launch",
+      "mainClass": "bai_tap.bai_11",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
+      "name": "bai_10",
+      "request": "launch",
+      "mainClass": "bai_tap.bai_10",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
+      "name": "bai_9",
+      "request": "launch",
+      "mainClass": "bai_tap.bai_9",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
+      "name": "bai_8",
+      "request": "launch",
+      "mainClass": "bai_tap.bai_8",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
+      "name": "bai_7",
+      "request": "launch",
+      "mainClass": "bai_tap.bai_7",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
+      "name": "bai_3",
+      "request": "launch",
+      "mainClass": "bai_tap.bai_3",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
+      "name": "bai_1",
+      "request": "launch",
+      "mainClass": "bai_1",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "type": "java",
+      "name": "hello_world",
+      "request": "launch",
+      "mainClass": "hello_world",
+      "projectName": "java_49b7e15d"
+    },
+    {
+      "name": "Java",
+      "type": "java",
+      "request": "launch",
+      "stopOnEntry": true,
+      "jdkPath": "${env:JAVA_HOME}/bin",
+      "cwd": "${fileDirname}",
+      "startupClass": "${fileBasenameNoExtension}",
+      "classpath": [".", "${fileDirname}"]
+    },
+    {
+      "name": "Java Console App",
+      "type": "java",
+      "request": "launch",
+      "stopOnEntry": true,
+      "jdkPath": "${env:JAVA_HOME}/bin",
+      "cwd": "${fileDirname}",
+      "startupClass": "${fileBasenameNoExtension}",
+      "classpath": [".", "${fileDirname}"],
+      "externalConsole": true
+    }
+  ]
+}
